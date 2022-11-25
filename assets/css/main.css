@@ -2666,9 +2666,6 @@ input, select, textarea {
 		}
 
 /* Banner */
-/* background-image: url("../../images/cover_climbing.jpg"); */
-/* background-image: url("../../images/cover_rads.png"); */
-/* background-position: center bottom; */
 #banner {
 		background-position: center center;
 		background-size: cover;
@@ -2684,7 +2681,7 @@ input, select, textarea {
 /* 	#banner.cv {background-image: url("../../images/cover_filtrating.jpg");} */
 	#banner.dissemination {background-image: url("../../images/cover_presenting.jpg");}
 	#banner.resources {background-image: url("../../images/cover_barcoding.jpg");}
-	#banner.contact {background-image: url("../../images/cover_climbing.jpg");background-position: center bottom;}
+	#banner.contact {background-image: url("../../images/cover_climbing.png");background-position: center bottom;}
 
 		#banner header {
 			position: absolute;
